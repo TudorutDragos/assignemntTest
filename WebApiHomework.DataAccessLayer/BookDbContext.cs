@@ -11,7 +11,7 @@ namespace WebApiHomework.DataAccessLayer
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=EN614442;Database=BookDB;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=tcp:assignmentserver.database.windows.net,1433;Initial Catalog=assignment-database;Persist Security Info=False;User ID=adminuser;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             }
         }
 

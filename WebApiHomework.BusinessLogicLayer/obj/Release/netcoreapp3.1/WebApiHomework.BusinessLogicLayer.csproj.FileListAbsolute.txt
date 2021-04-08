@@ -1,0 +1,12 @@
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\bin\Release\netcoreapp3.1\WebApiHomework.BusinessLogicLayer.deps.json
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\bin\Release\netcoreapp3.1\WebApiHomework.BusinessLogicLayer.dll
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\bin\Release\netcoreapp3.1\WebApiHomework.BusinessLogicLayer.pdb
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\bin\Release\netcoreapp3.1\WebApiHomework.DataAccessLayer.dll
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\bin\Release\netcoreapp3.1\WebApiHomework.DataAccessLayer.pdb
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\obj\Release\netcoreapp3.1\WebApiHomework.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\obj\Release\netcoreapp3.1\WebApiHomework.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\obj\Release\netcoreapp3.1\WebApiHomework.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\obj\Release\netcoreapp3.1\WebApiHomework.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\obj\Release\netcoreapp3.1\WebApiHomework.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\obj\Release\netcoreapp3.1\WebApiHomework.BusinessLogicLayer.dll
+C:\Users\dtudorut\OneDrive - ENDAVA\Desktop\Work\Project1\WebApi-Homework\WebApiHomework.BusinessLogicLayer\obj\Release\netcoreapp3.1\WebApiHomework.BusinessLogicLayer.pdb
