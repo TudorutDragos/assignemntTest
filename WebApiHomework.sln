@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiHomework", "WebApiHomework.csproj", "{4989E77C-235C-4333-9B32-C40781313C45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiHomework", "WebApiHomework\WebApiHomework.csproj", "{4989E77C-235C-4333-9B32-C40781313C45}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiHomework.BusinessLogicLayer", "..\WebApiHomework.BusinessLogicLayer\WebApiHomework.BusinessLogicLayer.csproj", "{5BB77D6D-5993-4BCD-9568-FD2D5CA1679F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiHomework.BusinessLogicLayer", "WebApiHomework.BusinessLogicLayer\WebApiHomework.BusinessLogicLayer.csproj", "{5BB77D6D-5993-4BCD-9568-FD2D5CA1679F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiHomework.DataAccessLayer", "..\WebApiHomework.DataAccessLayer\WebApiHomework.DataAccessLayer.csproj", "{1401A1EB-2617-4193-AC0B-83CF42537060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiHomework.DataAccessLayer", "WebApiHomework.DataAccessLayer\WebApiHomework.DataAccessLayer.csproj", "{1401A1EB-2617-4193-AC0B-83CF42537060}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
